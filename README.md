@@ -1,7 +1,7 @@
 # Mininmum-Description-Length-and-Controlled-task
 In this Repository I have attempted to implement Viota et. al.'s online coding technique on pos_tag classification task. I have also implemened Hewitt et. al's control task for token classification
 
-** if you find this useful please consider giving a star . Also if you find any mistakes please dont hesitate in contacting me **
+**If you find this useful please consider giving a star . Also if you find any mistakes please dont hesitate in contacting me**
 
 
 ## References
